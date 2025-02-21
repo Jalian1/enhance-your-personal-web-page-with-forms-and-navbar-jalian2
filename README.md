@@ -126,17 +126,17 @@
 
 <h2>Contact Form</h2>
 <form action="#" method="POST">
-    <label for="name">Name:Jalian Yarborough</label>
+    <label for="name">Name:  Jalian Yarborough</label>
     <input type="text" id="name" name="name" placeholder="Jalian Yarborough" required><br><br>
 
  <label for="email">Email: Jalianyarboroughz@gmail.com</label>
     <input type="email" id="email" name="email" placeholder="Jalianyarboroughz@gmail.com" required><br><br>
 
- <label for="subject">Subject:Learning all there is to know about technology!</label>
+ <label for="subject">Subject: Learning all there is to know about technology!</label>
     <input type="text" id="subject" name="subject" placeholder="Enter the subject of your message" required><br><br>
 
- <label for="message">Message:Really looking forward to futhering my knowledge in Web Development!</label><br>
-    <textarea id="message" name="message" rows="4" placeholder="Your message here..." required></textarea><br><br>
+ <label for="message">Message:  Really looking forward to futhering my knowledge in Web Development!</label><br>
+   
 
 <button type="submit">Submit</button>
 </form>
