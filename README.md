@@ -132,10 +132,10 @@
  <label for="email">Email: Jalianyarboroughz@gmail.com</label>
     <input type="email" id="email" name="email" placeholder="Jalianyarboroughz@gmail.com" required><br><br>
 
- <label for="subject">Subject:</label>
+ <label for="subject">Subject:Learning all there is to know about technology!</label>
     <input type="text" id="subject" name="subject" placeholder="Enter the subject of your message" required><br><br>
 
- <label for="message">Message:</label><br>
+ <label for="message">Message:Really looking forward to futhering my knowledge in Web Development!</label><br>
     <textarea id="message" name="message" rows="4" placeholder="Your message here..." required></textarea><br><br>
 
 <button type="submit">Submit</button>
