@@ -126,10 +126,10 @@
 
 <h2>Contact Form</h2>
 <form action="#" method="POST">
-    <label for="name">Name:</label>
+    <label for="name">Name:Jalian Yarborough</label>
     <input type="text" id="name" name="name" placeholder="Jalian Yarborough" required><br><br>
 
- <label for="email">Email:</label>
+ <label for="email">Email: Jalianyarboroughz@gmail.com</label>
     <input type="email" id="email" name="email" placeholder="Jalianyarboroughz@gmail.com" required><br><br>
 
  <label for="subject">Subject:</label>
